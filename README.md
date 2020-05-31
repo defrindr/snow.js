@@ -3,11 +3,19 @@ library untuk menampilkan salju menggunakan javascript
 
 
 ## Cara menggunakan
-import script dari CDS
+Dapat dengan mendownload repo ini atau
+import script dari CDN
 ```
-<script src="https://cdn.jsdelivr.net/gh/defrindr/snow.js@1.0.0/src/snow.min.js"></script>
+<html>
+  <head>
+    <title>snow.js</title>
+  </head>
+  <body>
+    ...
+    <script src="https://cdn.jsdelivr.net/gh/defrindr/snow.js@1.0.0/src/snow.min.js"></script>
+  </body>
+</html>
 ```
-atau dapat langsung men-download dari repo ini
 
 ## Sample
 Contoh dapat dilihat di
