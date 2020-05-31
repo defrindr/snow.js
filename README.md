@@ -34,7 +34,8 @@ import script dari CDN
         }).init();
     </script>
 </body>
-</html>```
+</html>
+```
 
 ## Sample
 Contoh dapat dilihat di
